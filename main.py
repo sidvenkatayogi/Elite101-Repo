@@ -2,7 +2,7 @@ import random
 
 
 yesList = ["yes", "yeah", "yea", "sure", "of course", "y"]
-responses = ["Of course!","Not really.","I dont know.","How could you!?!?!?!?!?","Yes.", "No.","Yes.", "Maybe.", "It's possible.", "No way.", "Soon."] #list from a prework example
+responses = ["Of course!","Not really.","I dont know.","How could you!?!?!?!?!?","Yes.", "No.","Yes.", "Maybe.", "It's possible.", "No way.", "Soon.", "So cool!"] #list from a prework example
 
 #greeting
 name = input("What's your name? ")
